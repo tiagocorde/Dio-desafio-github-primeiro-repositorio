@@ -1,5 +1,5 @@
 # Desafio sobre Git/Github da Dio
-#https://tiagocorde.github.io/Dio-desafio-github-primeiro-repositorio/
+# https://tiagocorde.github.io/Dio-desafio-github-primeiro-repositorio/
 Repositório criado para desafio de projeto.
 # Links úteis
 sintaxe básica 
